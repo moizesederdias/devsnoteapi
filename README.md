@@ -20,9 +20,11 @@ acesse a pasta do projeto e execute:
 npm install
 
 Se tiver algum problema de instalação, remova as dependências dp packages.json e instale manualmente:
+
 npm init
+
 npm install express mysql dotnev cors body-parser
-npm install express mysql dotenv cors body-parser
+
 npm install nodemon --save-dev
 
 execute o projeto:
