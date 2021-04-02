@@ -23,6 +23,8 @@ Se tiver algum problema de instalação, remova as dependências dp packages.jso
 
 npm init
 
+npm install express
+
 npm install express mysql dotnev cors body-parser
 
 npm install nodemon --save-dev
