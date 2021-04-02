@@ -1,0 +1,5 @@
+PORT=coloque_aqui_a_porta_que_devnotesapi_vai_usar
+DB_HOST=IP_banco_dados
+DB_USER=user_banco_dados
+DB_PASS=user_banco_dados
+DB_NAME=name_banco_dados
